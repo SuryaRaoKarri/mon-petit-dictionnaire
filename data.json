@@ -1,5 +1,1132 @@
 [
   {
+    "word": "Toujours",
+    "pos": "Adverb",
+    "pronunciation": "too-zhoor",
+    "meaning": "Always / Still",
+    "mainContext": {
+      "fr": "Je t'aimerai toujours.",
+      "phonetic": "Zhuh tem-ray too-zhoor",
+      "en": "I will always love you."
+    },
+    "moreContext": [
+      {
+        "fr": "Il est toujours là.",
+        "phonetic": "Eel eh too-zhoor lah",
+        "en": "He is still there."
+      },
+      {
+        "fr": "Comme toujours.",
+        "phonetic": "Kuhm too-zhoor",
+        "en": "As always."
+      }
+    ]
+  },
+  {
+    "word": "Jamais",
+    "pos": "Adverb",
+    "pronunciation": "zhah-meh",
+    "meaning": "Never",
+    "mainContext": {
+      "fr": "Il ne pleut jamais ici.",
+      "phonetic": "Eel nuh pluh zhah-meh ee-see",
+      "en": "It never rains here."
+    },
+    "moreContext": [
+      {
+        "fr": "Je n'ai jamais vu ça.",
+        "phonetic": "Zhuh nay zhah-meh voo sah",
+        "en": "I have never seen that."
+      },
+      {
+        "fr": "C'est maintenant ou jamais.",
+        "phonetic": "Seh mahn-tuh-nahn oo zhah-meh",
+        "en": "It's now or never."
+      }
+    ]
+  },
+  {
+    "word": "La maison",
+    "pos": "Noun, feminine",
+    "pronunciation": "lah meh-zohn",
+    "meaning": "The house / home",
+    "mainContext": {
+      "fr": "Je rentre à la maison.",
+      "phonetic": "Zhuh rahntr ah lah meh-zohn",
+      "en": "I am going home."
+    },
+    "moreContext": [
+      {
+        "fr": "C'est une grande maison.",
+        "phonetic": "Set oon grahnd meh-zohn",
+        "en": "It is a big house."
+      },
+      {
+        "fr": "Il est à la maison.",
+        "phonetic": "Eel eht ah lah meh-zohn",
+        "en": "He is at home."
+      }
+    ]
+  },
+  {
+    "word": "Le travail",
+    "pos": "Noun, masculine",
+    "pronunciation": "luh trah-vye",
+    "meaning": "Work / job",
+    "mainContext": {
+      "fr": "Mon travail est très intéressant.",
+      "phonetic": "Mohn trah-vye eh trehz ahn-tay-reh-sahn",
+      "en": "My work is very interesting."
+    },
+    "moreContext": [
+      {
+        "fr": "Je cherche du travail.",
+        "phonetic": "Zhuh shersh doo trah-vye",
+        "en": "I am looking for work."
+      },
+      {
+        "fr": "Bon travail !",
+        "phonetic": "Bohn trah-vye",
+        "en": "Good job!"
+      }
+    ]
+  },
+  {
+    "word": "Manger",
+    "pos": "Verb",
+    "pronunciation": "mahn-zhay",
+    "meaning": "To eat",
+    "mainContext": {
+      "fr": "J'aime manger du fromage.",
+      "phonetic": "Zhem mahn-zhay doo froh-mahzh",
+      "en": "I like to eat cheese."
+    },
+    "moreContext": [
+      {
+        "fr": "Qu'est-ce qu'on mange ?",
+        "phonetic": "Kess kohn mahnzh",
+        "en": "What are we eating?"
+      },
+      {
+        "fr": "Il faut manger.",
+        "phonetic": "Eel foh mahn-zhay",
+        "en": "We must eat."
+      }
+    ]
+  },
+  {
+    "word": "Boire",
+    "pos": "Verb",
+    "pronunciation": "bwahr",
+    "meaning": "To drink",
+    "mainContext": {
+      "fr": "Tu veux boire de l'eau ?",
+      "phonetic": "Too vuh bwahr duh loh",
+      "en": "Do you want to drink some water?"
+    },
+    "moreContext": [
+      {
+        "fr": "Il boit un café.",
+        "phonetic": "Eel bwah uhn kah-fay",
+        "en": "He is drinking a coffee."
+      },
+      {
+        "fr": "J'ai besoin de boire.",
+        "phonetic": "Zhay buh-zwahn duh bwahr",
+        "en": "I need to drink."
+      }
+    ]
+  },
+  {
+    "word": "Heureux / Heureuse",
+    "pos": "Adjective",
+    "pronunciation": "uh-ruh / uh-ruhz",
+    "meaning": "Happy",
+    "mainContext": {
+      "fr": "Elle est très heureuse.",
+      "phonetic": "El eh trehz uh-ruhz",
+      "en": "She is very happy."
+    },
+    "moreContext": [
+      {
+        "fr": "Je suis heureux pour toi.",
+        "phonetic": "Zhuh sweez uh-ruh poor twah",
+        "en": "I am happy for you."
+      },
+      {
+        "fr": "Ils vivent heureux.",
+        "phonetic": "Eel veev uh-ruh",
+        "en": "They live happily."
+      }
+    ]
+  },
+  {
+    "word": "Fatigué(e)",
+    "pos": "Adjective",
+    "pronunciation": "fah-tee-gay",
+    "meaning": "Tired",
+    "mainContext": {
+      "fr": "Je suis fatigué ce soir.",
+      "phonetic": "Zhuh swee fah-tee-gay suh swahr",
+      "en": "I am tired tonight."
+    },
+    "moreContext": [
+      {
+        "fr": "Tu as l'air fatigué.",
+        "phonetic": "Too ah lehr fah-tee-gay",
+        "en": "You look tired."
+      },
+      {
+        "fr": "Elle est un peu fatiguée.",
+        "phonetic": "El eht uhn puh fah-tee-gay",
+        "en": "She is a little tired."
+      }
+    ]
+  },
+  {
+    "word": "Maintenant",
+    "pos": "Adverb",
+    "pronunciation": "mahn-tuh-nahn",
+    "meaning": "Now",
+    "mainContext": {
+      "fr": "Nous devons partir maintenant.",
+      "phonetic": "Noo duh-vohn pahr-teer mahn-tuh-nahn",
+      "en": "We have to leave now."
+    },
+    "moreContext": [
+      {
+        "fr": "Que fait-on maintenant ?",
+        "phonetic": "Kuh feh-tohn mahn-tuh-nahn",
+        "en": "What do we do now?"
+      },
+      {
+        "fr": "C'est maintenant fini.",
+        "phonetic": "Seh mahn-tuh-nahn fee-nee",
+        "en": "It is now finished."
+      }
+    ]
+  },
+  {
+    "word": "Demain",
+    "pos": "Adverb",
+    "pronunciation": "duh-mahn",
+    "meaning": "Tomorrow",
+    "mainContext": {
+      "fr": "À demain !",
+      "phonetic": "Ah duh-mahn",
+      "en": "See you tomorrow!"
+    },
+    "moreContext": [
+      {
+        "fr": "Je travaille demain.",
+        "phonetic": "Zhuh trah-vye duh-mahn",
+        "en": "I work tomorrow."
+      },
+      {
+        "fr": "Demain, il fera beau.",
+        "phonetic": "Duh-mahn, eel fuh-rah boh",
+        "en": "Tomorrow, the weather will be nice."
+      }
+    ]
+  },
+  {
+    "word": "Être",
+    "pos": "Verb",
+    "pronunciation": "etr",
+    "meaning": "To be",
+    "mainContext": {
+      "fr": "Je veux être avec toi.",
+      "phonetic": "Zhuh vuhz etr ah-vek twah",
+      "en": "I want to be with you."
+    },
+    "moreContext": [
+      {
+        "fr": "Il va être en retard.",
+        "phonetic": "Eel vah etr ahn ruh-tahr",
+        "en": "He is going to be late."
+      },
+      {
+        "fr": "Ça doit être ici.",
+        "phonetic": "Sah dwah etr ee-see",
+        "en": "It must be here."
+      }
+    ]
+  },
+  {
+    "word": "Avoir",
+    "pos": "Verb",
+    "pronunciation": "ah-vwahr",
+    "meaning": "To have",
+    "mainContext": {
+      "fr": "J'ai une question.",
+      "phonetic": "Zhay oon kes-tyohn",
+      "en": "I have a question."
+    },
+    "moreContext": [
+      {
+        "fr": "Tu as le temps ?",
+        "phonetic": "Too ah luh tahn",
+        "en": "Do you have time?"
+      },
+      {
+        "fr": "Il faut avoir de la patience.",
+        "phonetic": "Eel foh ah-vwahr duh lah pah-syahns",
+        "en": "You must have patience."
+      }
+    ]
+  },
+  {
+    "word": "Faire",
+    "pos": "Verb",
+    "pronunciation": "fehr",
+    "meaning": "To do / to make",
+    "mainContext": {
+      "fr": "Que vas-tu faire ?",
+      "phonetic": "Kuh vah-too fehr",
+      "en": "What are you going to do?"
+    },
+    "moreContext": [
+      {
+        "fr": "Il fait chaud aujourd'hui.",
+        "phonetic": "Eel feh shoh oh-zhoor-dwee",
+        "en": "It is hot today."
+      },
+      {
+        "fr": "Je dois faire mes devoirs.",
+        "phonetic": "Zhuh dwah fehr may duh-vwahr",
+        "en": "I have to do my homework."
+      }
+    ]
+  },
+  {
+    "word": "Pouvoir",
+    "pos": "Verb",
+    "pronunciation": "poo-vwahr",
+    "meaning": "To be able to / can",
+    "mainContext": {
+      "fr": "Je ne peux pas venir.",
+      "phonetic": "Zhuh nuh puh pah vuh-neer",
+      "en": "I cannot come."
+    },
+    "moreContext": [
+      {
+        "fr": "Pouvez-vous m'aider ?",
+        "phonetic": "Poo-vay-voo meh-day",
+        "en": "Can you help me?"
+      },
+      {
+        "fr": "Il peut le faire.",
+        "phonetic": "Eel puh luh fehr",
+        "en": "He can do it."
+      }
+    ]
+  },
+  {
+    "word": "Vouloir",
+    "pos": "Verb",
+    "pronunciation": "voo-vwahr",
+    "meaning": "To want",
+    "mainContext": {
+      "fr": "Je veux apprendre le français.",
+      "phonetic": "Zhuh vuhz ah-prahndr luh frahn-seh",
+      "en": "I want to learn French."
+    },
+    "moreContext": [
+      {
+        "fr": "Que voulez-vous ?",
+        "phonetic": "Kuh voo-lay-voo",
+        "en": "What do you want?"
+      },
+      {
+        "fr": "Il veut un café.",
+        "phonetic": "Eel vuh uhn kah-fay",
+        "en": "He wants a coffee."
+      }
+    ]
+  },
+  {
+    "word": "Le temps",
+    "pos": "Noun, masculine",
+    "pronunciation": "luh tahn",
+    "meaning": "Time / Weather",
+    "mainContext": {
+      "fr": "Je n'ai pas le temps.",
+      "phonetic": "Zhuh nay pah luh tahn",
+      "en": "I don't have the time."
+    },
+    "moreContext": [
+      {
+        "fr": "Le temps passe vite.",
+        "phonetic": "Luh tahn pahs veet",
+        "en": "Time goes fast."
+      },
+      {
+        "fr": "Quel temps fait-il ?",
+        "phonetic": "Kel tahn feh-teel",
+        "en": "What is the weather like?"
+      }
+    ]
+  },
+  {
+    "word": "La chose",
+    "pos": "Noun, feminine",
+    "pronunciation": "lah shohz",
+    "meaning": "The thing",
+    "mainContext": {
+      "fr": "C'est la bonne chose à faire.",
+      "phonetic": "Seh lah bun shohz ah fehr",
+      "en": "It is the right thing to do."
+    },
+    "moreContext": [
+      {
+        "fr": "Une autre chose.",
+        "phonetic": "Oon ohtr shohz",
+        "en": "Another thing."
+      },
+      {
+        "fr": "Quelque chose cloche.",
+        "phonetic": "Kel-kuh shohz kloHsh",
+        "en": "Something is wrong."
+      }
+    ]
+  },
+  {
+    "word": "Le monde",
+    "pos": "Noun, masculine",
+    "pronunciation": "luh mohnd",
+    "meaning": "The world / people",
+    "mainContext": {
+      "fr": "Tout le monde est ici.",
+      "phonetic": "Too luh mohnd eht ee-see",
+      "en": "Everyone is here."
+    },
+    "moreContext": [
+      {
+        "fr": "Le monde est petit.",
+        "phonetic": "Luh mohnd eh puh-tee",
+        "en": "It's a small world."
+      },
+      {
+        "fr": "Il y a du monde.",
+        "phonetic": "Eel ee ah doo mohnd",
+        "en": "There are a lot of people."
+      }
+    ]
+  },
+  {
+    "word": "L'homme",
+    "pos": "Noun, masculine",
+    "pronunciation": "luhm",
+    "meaning": "The man",
+    "mainContext": {
+      "fr": "C'est un homme bien.",
+      "phonetic": "Seht uhn uhm byehn",
+      "en": "He is a good man."
+    },
+    "moreContext": [
+      {
+        "fr": "Un homme grand.",
+        "phonetic": "Uhn uhm grahn",
+        "en": "A tall man."
+      },
+      {
+        "fr": "L'homme est là.",
+        "phonetic": "Luhm eh lah",
+        "en": "The man is there."
+      }
+    ]
+  },
+  {
+    "word": "La femme",
+    "pos": "Noun, feminine",
+    "pronunciation": "lah fahm",
+    "meaning": "The woman / wife",
+    "mainContext": {
+      "fr": "Ma femme est française.",
+      "phonetic": "Mah fahm eh frahn-sez",
+      "en": "My wife is French."
+    },
+    "moreContext": [
+      {
+        "fr": "C'est une femme forte.",
+        "phonetic": "Seht oon fahm fort",
+        "en": "She is a strong woman."
+      },
+      {
+        "fr": "Où est la femme ?",
+        "phonetic": "Oo eh lah fahm",
+        "en": "Where is the woman?"
+      }
+    ]
+  },
+  {
+    "word": "Le jour",
+    "pos": "Noun, masculine",
+    "pronunciation": "luh zhoor",
+    "meaning": "The day",
+    "mainContext": {
+      "fr": "Passe une bonne journée.",
+      "phonetic": "Pahs oon bun zhoor-nay",
+      "en": "Have a good day."
+    },
+    "moreContext": [
+      {
+        "fr": "Le jour se lève.",
+        "phonetic": "Luh zhoor suh lev",
+        "en": "The day is breaking."
+      },
+      {
+        "fr": "Chaque jour est nouveau.",
+        "phonetic": "Shahk zhoor eh noo-voh",
+        "en": "Every day is new."
+      }
+    ]
+  },
+  {
+    "word": "Bon / Bonne",
+    "pos": "Adjective",
+    "pronunciation": "bohn / bun",
+    "meaning": "Good",
+    "mainContext": {
+      "fr": "C'est une bonne idée.",
+      "phonetic": "Seht oon bun ee-day",
+      "en": "That's a good idea."
+    },
+    "moreContext": [
+      {
+        "fr": "C'est très bon.",
+        "phonetic": "Seh treh bohn",
+        "en": "It is very good."
+      },
+      {
+        "fr": "Un bon ami.",
+        "phonetic": "Uhn bohn ah-mee",
+        "en": "A good friend."
+      }
+    ]
+  },
+  {
+    "word": "Grand / Grande",
+    "pos": "Adjective",
+    "pronunciation": "grahn / grahnd",
+    "meaning": "Big / Tall",
+    "mainContext": {
+      "fr": "Il habite dans une grande ville.",
+      "phonetic": "Eel ah-beet dahnz oon grahnd veel",
+      "en": "He lives in a big city."
+    },
+    "moreContext": [
+      {
+        "fr": "Il est très grand.",
+        "phonetic": "Eel eh treh grahn",
+        "en": "He is very tall."
+      },
+      {
+        "fr": "Une grande maison.",
+        "phonetic": "Oon grahnd meh-zohn",
+        "en": "A big house."
+      }
+    ]
+  },
+  {
+    "word": "Petit / Petite",
+    "pos": "Adjective",
+    "pronunciation": "puh-tee / puh-teet",
+    "meaning": "Small / Short",
+    "mainContext": {
+      "fr": "J'ai un petit problème.",
+      "phonetic": "Zhay uhn puh-tee pro-blem",
+      "en": "I have a small problem."
+    },
+    "moreContext": [
+      {
+        "fr": "Elle est trop petite.",
+        "phonetic": "El eh troh puh-teet",
+        "en": "She is too short."
+      },
+      {
+        "fr": "Un petit chat.",
+        "phonetic": "Uhn puh-tee shah",
+        "en": "A small cat."
+      }
+    ]
+  },
+  {
+    "word": "Très",
+    "pos": "Adverb",
+    "pronunciation": "treh",
+    "meaning": "Very",
+    "mainContext": {
+      "fr": "C'est très important.",
+      "phonetic": "Seh trehz ahm-por-tahn",
+      "en": "It is very important."
+    },
+    "moreContext": [
+      {
+        "fr": "Je suis très fatigué.",
+        "phonetic": "Zhuh swee treh fah-tee-gay",
+        "en": "I am very tired."
+      },
+      {
+        "fr": "Il parle très vite.",
+        "phonetic": "Eel pahrl treh veet",
+        "en": "He speaks very fast."
+      }
+    ]
+  },
+  {
+    "word": "Bien",
+    "pos": "Adverb",
+    "pronunciation": "byehn",
+    "meaning": "Well / Good",
+    "mainContext": {
+      "fr": "Il parle bien français.",
+      "phonetic": "Eel pahrl byehn frahn-seh",
+      "en": "He speaks French well."
+    },
+    "moreContext": [
+      {
+        "fr": "Tout va bien.",
+        "phonetic": "Too vah byehn",
+        "en": "Everything is fine."
+      },
+      {
+        "fr": "C'est bien fait.",
+        "phonetic": "Seh byehn feh",
+        "en": "It is well done."
+      }
+    ]
+  },
+  {
+    "word": "Avec",
+    "pos": "Preposition",
+    "pronunciation": "ah-vek",
+    "meaning": "With",
+    "mainContext": {
+      "fr": "Je dîne avec mes amis.",
+      "phonetic": "Zhuh deen ah-vek mehz ah-mee",
+      "en": "I am having dinner with my friends."
+    },
+    "moreContext": [
+      {
+        "fr": "Viens avec moi.",
+        "phonetic": "Vyahn ah-vek mwah",
+        "en": "Come with me."
+      },
+      {
+        "fr": "Un café avec du lait.",
+        "phonetic": "Uhn kah-fay ah-vek doo leh",
+        "en": "A coffee with milk."
+      }
+    ]
+  },
+  {
+    "word": "Pour",
+    "pos": "Preposition",
+    "pronunciation": "poor",
+    "meaning": "For",
+    "mainContext": {
+      "fr": "Ce cadeau est pour toi.",
+      "phonetic": "Suh kah-doh eh poor twah",
+      "en": "This gift is for you."
+    },
+    "moreContext": [
+      {
+        "fr": "Je suis pour cette idée.",
+        "phonetic": "Zhuh swee poor set ee-day",
+        "en": "I am for this idea."
+      },
+      {
+        "fr": "Partir pour Paris.",
+        "phonetic": "Pahr-teer poor Pah-ree",
+        "en": "Leaving for Paris."
+      }
+    ]
+  },
+  {
+    "word": "Mais",
+    "pos": "Conjunction",
+    "pronunciation": "meh",
+    "meaning": "But",
+    "mainContext": {
+      "fr": "Je veux sortir, mais il pleut.",
+      "phonetic": "Zhuh vuh sor-teer meh eel pluh",
+      "en": "I want to go out, but it's raining."
+    },
+    "moreContext": [
+      {
+        "fr": "Mais non !",
+        "phonetic": "Meh nohn",
+        "en": "But no! / Of course not!"
+      },
+      {
+        "fr": "C'est cher, mais beau.",
+        "phonetic": "Seh shehr meh boh",
+        "en": "It's expensive, but beautiful."
+      }
+    ]
+  },
+  {
+    "word": "Parce que",
+    "pos": "Conjunction",
+    "pronunciation": "pahrs kuh",
+    "meaning": "Because",
+    "mainContext": {
+      "fr": "Je mange parce que j'ai faim.",
+      "phonetic": "Zhuh mahnzh pahrs kuh zhay fahn",
+      "en": "I am eating because I am hungry."
+    },
+    "moreContext": [
+      {
+        "fr": "Parce que je t'aime.",
+        "phonetic": "Pahrs kuh zhuh tem",
+        "en": "Because I love you."
+      },
+      {
+        "fr": "Il pleut parce que c'est l'hiver.",
+        "phonetic": "Eel pluh pahrs kuh seh lee-vehr",
+        "en": "It is raining because it's winter."
+      }
+    ]
+  },
+  {
+    "word": "Aller",
+    "pos": "Verb",
+    "pronunciation": "ah-lay",
+    "meaning": "To go",
+    "mainContext": {
+      "fr": "Je dois aller au supermarché.",
+      "phonetic": "Zhuh dwah ah-lay oh soo-pehr-mahr-shay",
+      "en": "I have to go to the supermarket."
+    },
+    "moreContext": [
+      {
+        "fr": "Comment ça va ?",
+        "phonetic": "Koh-mahn sah vah",
+        "en": "How is it going?"
+      },
+      {
+        "fr": "Où vas-tu ?",
+        "phonetic": "Oo vah-too",
+        "en": "Where are you going?"
+      }
+    ]
+  },
+  {
+    "word": "Dire",
+    "pos": "Verb",
+    "pronunciation": "deer",
+    "meaning": "To say / to tell",
+    "mainContext": {
+      "fr": "Qu'est-ce que tu veux dire ?",
+      "phonetic": "Kess kuh too vuh deer",
+      "en": "What do you mean? / What do you want to say?"
+    },
+    "moreContext": [
+      {
+        "fr": "Il dit la vérité.",
+        "phonetic": "Eel dee lah vay-ree-tay",
+        "en": "He tells the truth."
+      },
+      {
+        "fr": "Dis-moi tout.",
+        "phonetic": "Dee-mwah too",
+        "en": "Tell me everything."
+      }
+    ]
+  },
+  {
+    "word": "Devoir",
+    "pos": "Verb",
+    "pronunciation": "duh-vwahr",
+    "meaning": "To have to / must",
+    "mainContext": {
+      "fr": "Je dois travailler demain.",
+      "phonetic": "Zhuh dwah trah-vye-yay duh-mahn",
+      "en": "I must work tomorrow."
+    },
+    "moreContext": [
+      {
+        "fr": "Tu dois écouter.",
+        "phonetic": "Too dwah ay-koo-tay",
+        "en": "You must listen."
+      },
+      {
+        "fr": "Il doit être fatigué.",
+        "phonetic": "Eel dwah etr fah-tee-gay",
+        "en": "He must be tired."
+      }
+    ]
+  },
+  {
+    "word": "Savoir",
+    "pos": "Verb",
+    "pronunciation": "sah-vwahr",
+    "meaning": "To know (a fact or how to do something)",
+    "mainContext": {
+      "fr": "Je ne sais pas.",
+      "phonetic": "Zhuh nuh seh pah",
+      "en": "I don't know."
+    },
+    "moreContext": [
+      {
+        "fr": "Sais-tu nager ?",
+        "phonetic": "Seh-too nah-zhay",
+        "en": "Do you know how to swim?"
+      },
+      {
+        "fr": "Il sait tout.",
+        "phonetic": "Eel seh too",
+        "en": "He knows everything."
+      }
+    ]
+  },
+  {
+    "word": "Voir",
+    "pos": "Verb",
+    "pronunciation": "vwahr",
+    "meaning": "To see",
+    "mainContext": {
+      "fr": "Je veux voir ce film.",
+      "phonetic": "Zhuh vuh vwahr suh feelm",
+      "en": "I want to see this movie."
+    },
+    "moreContext": [
+      {
+        "fr": "Je vois ce que tu veux dire.",
+        "phonetic": "Zhuh vwah suh kuh too vuh deer",
+        "en": "I see what you mean."
+      },
+      {
+        "fr": "On verra.",
+        "phonetic": "Ohn veh-rah",
+        "en": "We will see."
+      }
+    ]
+  },
+  {
+    "word": "La vie",
+    "pos": "Noun, feminine",
+    "pronunciation": "lah vee",
+    "meaning": "Life",
+    "mainContext": {
+      "fr": "La vie est belle.",
+      "phonetic": "Lah vee eh bel",
+      "en": "Life is beautiful."
+    },
+    "moreContext": [
+      {
+        "fr": "C'est la vie !",
+        "phonetic": "Seh lah vee",
+        "en": "That's life!"
+      },
+      {
+        "fr": "Toute ma vie.",
+        "phonetic": "Toot mah vee",
+        "en": "All my life."
+      }
+    ]
+  },
+  {
+    "word": "L'ami / L'amie",
+    "pos": "Noun",
+    "pronunciation": "lah-mee",
+    "meaning": "Friend",
+    "mainContext": {
+      "fr": "Il est mon meilleur ami.",
+      "phonetic": "Eel eh mohn may-yuhr ah-mee",
+      "en": "He is my best friend."
+    },
+    "moreContext": [
+      {
+        "fr": "Une bonne amie.",
+        "phonetic": "Oon bun ah-mee",
+        "en": "A good (female) friend."
+      },
+      {
+        "fr": "Sortir avec des amis.",
+        "phonetic": "Sor-teer ah-vek dehz ah-mee",
+        "en": "Going out with friends."
+      }
+    ]
+  },
+  {
+    "word": "L'année",
+    "pos": "Noun, feminine",
+    "pronunciation": "lah-nay",
+    "meaning": "The year",
+    "mainContext": {
+      "fr": "C'est une bonne année.",
+      "phonetic": "Seht oon bun ah-nay",
+      "en": "It is a good year."
+    },
+    "moreContext": [
+      {
+        "fr": "L'année dernière.",
+        "phonetic": "Lah-nay dehr-nyehr",
+        "en": "Last year."
+      },
+      {
+        "fr": "L'année prochaine.",
+        "phonetic": "Lah-nay pro-shen",
+        "en": "Next year."
+      }
+    ]
+  },
+  {
+    "word": "Le pays",
+    "pos": "Noun, masculine",
+    "pronunciation": "luh pay-ee",
+    "meaning": "The country",
+    "mainContext": {
+      "fr": "La France est un beau pays.",
+      "phonetic": "Lah Frahns eht uhn boh pay-ee",
+      "en": "France is a beautiful country."
+    },
+    "moreContext": [
+      {
+        "fr": "Mon pays d'origine.",
+        "phonetic": "Mohn pay-ee doh-ree-zheen",
+        "en": "My country of origin."
+      },
+      {
+        "fr": "Quitter le pays.",
+        "phonetic": "Kee-tay luh pay-ee",
+        "en": "To leave the country."
+      }
+    ]
+  },
+  {
+    "word": "L'enfant",
+    "pos": "Noun",
+    "pronunciation": "lahn-fahn",
+    "meaning": "The child",
+    "mainContext": {
+      "fr": "L'enfant joue dans le parc.",
+      "phonetic": "Lahn-fahn zhoo dahn luh pahrk",
+      "en": "The child is playing in the park."
+    },
+    "moreContext": [
+      {
+        "fr": "C'est un enfant sage.",
+        "phonetic": "Seht uhn ahn-fahn sahzh",
+        "en": "He is a well-behaved child."
+      },
+      {
+        "fr": "Les enfants pleurent.",
+        "phonetic": "Lehz ahn-fahn pluhr",
+        "en": "The children are crying."
+      }
+    ]
+  },
+  {
+    "word": "Le problème",
+    "pos": "Noun, masculine",
+    "pronunciation": "luh pro-blem",
+    "meaning": "The problem",
+    "mainContext": {
+      "fr": "Pas de problème !",
+      "phonetic": "Pah duh pro-blem",
+      "en": "No problem!"
+    },
+    "moreContext": [
+      {
+        "fr": "C'est un gros problème.",
+        "phonetic": "Seht uhn groh pro-blem",
+        "en": "It is a big problem."
+      },
+      {
+        "fr": "Résoudre un problème.",
+        "phonetic": "Ray-zoodr uhn pro-blem",
+        "en": "To solve a problem."
+      }
+    ]
+  },
+  {
+    "word": "Nouveau / Nouvelle",
+    "pos": "Adjective",
+    "pronunciation": "noo-voh / noo-vel",
+    "meaning": "New",
+    "mainContext": {
+      "fr": "J'ai un nouveau téléphone.",
+      "phonetic": "Zhay uhn noo-voh tay-lay-fon",
+      "en": "I have a new phone."
+    },
+    "moreContext": [
+      {
+        "fr": "Une nouvelle maison.",
+        "phonetic": "Oon noo-vel meh-zohn",
+        "en": "A new house."
+      },
+      {
+        "fr": "Quoi de neuf ?",
+        "phonetic": "Kwah duh nuhf",
+        "en": "What's new?"
+      }
+    ]
+  },
+  {
+    "word": "Beau / Belle",
+    "pos": "Adjective",
+    "pronunciation": "boh / bel",
+    "meaning": "Beautiful / Handsome",
+    "mainContext": {
+      "fr": "Elle a une belle voix.",
+      "phonetic": "El ah oon bel vwah",
+      "en": "She has a beautiful voice."
+    },
+    "moreContext": [
+      {
+        "fr": "Un beau garçon.",
+        "phonetic": "Uhn boh gahr-sohn",
+        "en": "A handsome boy."
+      },
+      {
+        "fr": "Il fait beau aujourd'hui.",
+        "phonetic": "Eel feh boh oh-zhoor-dwee",
+        "en": "The weather is beautiful today."
+      }
+    ]
+  },
+  {
+    "word": "Jeune",
+    "pos": "Adjective",
+    "pronunciation": "zhuhn",
+    "meaning": "Young",
+    "mainContext": {
+      "fr": "Il est très jeune.",
+      "phonetic": "Eel eh treh zhuhn",
+      "en": "He is very young."
+    },
+    "moreContext": [
+      {
+        "fr": "Quand j'étais jeune...",
+        "phonetic": "Kahn zhay-teh zhuhn",
+        "en": "When I was young..."
+      },
+      {
+        "fr": "Une jeune fille.",
+        "phonetic": "Oon zhuhn fee-yuh",
+        "en": "A young girl."
+      }
+    ]
+  },
+  {
+    "word": "Vieux / Vieille",
+    "pos": "Adjective",
+    "pronunciation": "vyuh / vyay",
+    "meaning": "Old",
+    "mainContext": {
+      "fr": "C'est un vieux livre.",
+      "phonetic": "Seht uhn vyuh leevr",
+      "en": "It is an old book."
+    },
+    "moreContext": [
+      {
+        "fr": "Une vieille voiture.",
+        "phonetic": "Oon vyay vwah-toor",
+        "en": "An old car."
+      },
+      {
+        "fr": "Mon vieil ami.",
+        "phonetic": "Mohn vyay ah-mee",
+        "en": "My old friend."
+      }
+    ]
+  },
+  {
+    "word": "Dans",
+    "pos": "Preposition",
+    "pronunciation": "dahn",
+    "meaning": "In / Inside",
+    "mainContext": {
+      "fr": "Le chat est dans la maison.",
+      "phonetic": "Luh shah eh dahn lah meh-zohn",
+      "en": "The cat is in the house."
+    },
+    "moreContext": [
+      {
+        "fr": "Dans ma chambre.",
+        "phonetic": "Dahn mah shahmbr",
+        "en": "In my room."
+      },
+      {
+        "fr": "Je pars dans dix minutes.",
+        "phonetic": "Zhuh pahr dahn dee mee-noot",
+        "en": "I am leaving in ten minutes."
+      }
+    ]
+  },
+  {
+    "word": "Sur",
+    "pos": "Preposition",
+    "pronunciation": "soor",
+    "meaning": "On",
+    "mainContext": {
+      "fr": "Le livre est sur la table.",
+      "phonetic": "Luh leevr eh soor lah tahbl",
+      "en": "The book is on the table."
+    },
+    "moreContext": [
+      {
+        "fr": "Je compte sur toi.",
+        "phonetic": "Zhuh kohnt soor twah",
+        "en": "I am counting on you."
+      },
+      {
+        "fr": "Cliquez sur ce lien.",
+        "phonetic": "Klee-kay soor suh lyahn",
+        "en": "Click on this link."
+      }
+    ]
+  },
+  {
+    "word": "Beaucoup",
+    "pos": "Adverb",
+    "pronunciation": "boh-koo",
+    "meaning": "A lot / Much",
+    "mainContext": {
+      "fr": "Merci beaucoup !",
+      "phonetic": "Mehr-see boh-koo",
+      "en": "Thanks a lot!"
+    },
+    "moreContext": [
+      {
+        "fr": "J'ai beaucoup de travail.",
+        "phonetic": "Zhay boh-koo duh trah-vye",
+        "en": "I have a lot of work."
+      },
+      {
+        "fr": "Je l'aime beaucoup.",
+        "phonetic": "Zhuh lem boh-koo",
+        "en": "I like him/her a lot."
+      }
+    ]
+  },
+  {
+    "word": "Aussi",
+    "pos": "Adverb",
+    "pronunciation": "oh-see",
+    "meaning": "Also / Too",
+    "mainContext": {
+      "fr": "Moi aussi.",
+      "phonetic": "Mwah oh-see",
+      "en": "Me too."
+    },
+    "moreContext": [
+      {
+        "fr": "Il vient aussi.",
+        "phonetic": "Eel vyahn oh-see",
+        "en": "He is coming too."
+      },
+      {
+        "fr": "Elle est aussi grande que moi.",
+        "phonetic": "El eht oh-see grahnd kuh mwah",
+        "en": "She is as tall as me."
+      }
+    ]
+  },
+  {
     "word": "Rien",
     "pos": "Pronoun",
     "pronunciation": "ry-ehn",
@@ -12,13 +1139,473 @@
     "moreContext": [
       {
         "fr": "Il n'y a rien à faire.",
-        "phonetic": "Eel nee ah ry-ehn ah fair",
+        "phonetic": "Eel nee ah ry-ehn ah fehr",
         "en": "There is nothing to do."
       },
       {
         "fr": "Rien n'est impossible.",
         "phonetic": "Ry-ehn neht ahm-poh-seebl",
         "en": "Nothing is impossible."
+      }
+    ]
+  },
+  {
+    "word": "Venir",
+    "pos": "Verb",
+    "pronunciation": "vuh-neer",
+    "meaning": "To come",
+    "mainContext": {
+      "fr": "Je vais venir demain.",
+      "phonetic": "Zhuh veh vuh-neer duh-mahn",
+      "en": "I am going to come tomorrow."
+    },
+    "moreContext": [
+      {
+        "fr": "D'où viens-tu ?",
+        "phonetic": "Doo vyahn-too",
+        "en": "Where do you come from?"
+      },
+      {
+        "fr": "Il vient d'arriver.",
+        "phonetic": "Eel vyahn dah-ree-vay",
+        "en": "He just arrived."
+      }
+    ]
+  },
+  {
+    "word": "Prendre",
+    "pos": "Verb",
+    "pronunciation": "prahndr",
+    "meaning": "To take",
+    "mainContext": {
+      "fr": "Je vais prendre un café.",
+      "phonetic": "Zhuh veh prahndr uhn kah-fay",
+      "en": "I am going to take a coffee."
+    },
+    "moreContext": [
+      {
+        "fr": "Prends ton temps.",
+        "phonetic": "Prahn tohn tahn",
+        "en": "Take your time."
+      },
+      {
+        "fr": "Elle prend le train.",
+        "phonetic": "El prahn luh trahn",
+        "en": "She is taking the train."
+      }
+    ]
+  },
+  {
+    "word": "Comprendre",
+    "pos": "Verb",
+    "pronunciation": "kohn-prahndr",
+    "meaning": "To understand",
+    "mainContext": {
+      "fr": "Je ne comprends pas.",
+      "phonetic": "Zhuh nuh kohn-prahn pah",
+      "en": "I do not understand."
+    },
+    "moreContext": [
+      {
+        "fr": "Tu comprends ?",
+        "phonetic": "Too kohn-prahn",
+        "en": "Do you understand?"
+      },
+      {
+        "fr": "Elle comprend vite.",
+        "phonetic": "El kohn-prahn veet",
+        "en": "She understands fast."
+      }
+    ]
+  },
+  {
+    "word": "Donner",
+    "pos": "Verb",
+    "pronunciation": "duh-nay",
+    "meaning": "To give",
+    "mainContext": {
+      "fr": "Je veux te donner ça.",
+      "phonetic": "Zhuh vuh tuh duh-nay sah",
+      "en": "I want to give you this."
+    },
+    "moreContext": [
+      {
+        "fr": "Donne-moi ta main.",
+        "phonetic": "Dun-mwah tah mahn",
+        "en": "Give me your hand."
+      },
+      {
+        "fr": "Il donne de l'argent.",
+        "phonetic": "Eel dun duh lahr-zhahn",
+        "en": "He gives money."
+      }
+    ]
+  },
+  {
+    "word": "Penser",
+    "pos": "Verb",
+    "pronunciation": "pahn-say",
+    "meaning": "To think",
+    "mainContext": {
+      "fr": "Je pense que oui.",
+      "phonetic": "Zhuh pahns kuh wee",
+      "en": "I think so."
+    },
+    "moreContext": [
+      {
+        "fr": "À quoi penses-tu ?",
+        "phonetic": "Ah kwah pahns-too",
+        "en": "What are you thinking about?"
+      },
+      {
+        "fr": "Il faut y penser.",
+        "phonetic": "Eel foh ee pahn-say",
+        "en": "We must think about it."
+      }
+    ]
+  },
+  {
+    "word": "La famille",
+    "pos": "Noun, feminine",
+    "pronunciation": "lah fah-mee-yuh",
+    "meaning": "Family",
+    "mainContext": {
+      "fr": "J'aime ma famille.",
+      "phonetic": "Zhem mah fah-mee-yuh",
+      "en": "I love my family."
+    },
+    "moreContext": [
+      {
+        "fr": "Une grande famille.",
+        "phonetic": "Oon grahnd fah-mee-yuh",
+        "en": "A big family."
+      },
+      {
+        "fr": "C'est de famille.",
+        "phonetic": "Seh duh fah-mee-yuh",
+        "en": "It runs in the family."
+      }
+    ]
+  },
+  {
+    "word": "L'eau",
+    "pos": "Noun, feminine",
+    "pronunciation": "loh",
+    "meaning": "Water",
+    "mainContext": {
+      "fr": "J'ai besoin d'eau.",
+      "phonetic": "Zhay buh-zwahn doh",
+      "en": "I need water."
+    },
+    "moreContext": [
+      {
+        "fr": "L'eau est froide.",
+        "phonetic": "Loh eh frwahd",
+        "en": "The water is cold."
+      },
+      {
+        "fr": "Un verre d'eau.",
+        "phonetic": "Uhn vehr doh",
+        "en": "A glass of water."
+      }
+    ]
+  },
+  {
+    "word": "La ville",
+    "pos": "Noun, feminine",
+    "pronunciation": "lah veel",
+    "meaning": "City",
+    "mainContext": {
+      "fr": "C'est une belle ville.",
+      "phonetic": "Seht oon bel veel",
+      "en": "It is a beautiful city."
+    },
+    "moreContext": [
+      {
+        "fr": "Le centre-ville.",
+        "phonetic": "Luh sahntr-veel",
+        "en": "The city center."
+      },
+      {
+        "fr": "Je vais en ville.",
+        "phonetic": "Zhuh veh ahn veel",
+        "en": "I am going to town."
+      }
+    ]
+  },
+  {
+    "word": "Le livre",
+    "pos": "Noun, masculine",
+    "pronunciation": "luh leevr",
+    "meaning": "Book",
+    "mainContext": {
+      "fr": "Je lis un bon livre.",
+      "phonetic": "Zhuh lee uhn bohn leevr",
+      "en": "I am reading a good book."
+    },
+    "moreContext": [
+      {
+        "fr": "Ouvrez vos livres.",
+        "phonetic": "Oo-vray voh leevr",
+        "en": "Open your books."
+      },
+      {
+        "fr": "Le livre est fermé.",
+        "phonetic": "Luh leevr eh fehr-may",
+        "en": "The book is closed."
+      }
+    ]
+  },
+  {
+    "word": "Le mot",
+    "pos": "Noun, masculine",
+    "pronunciation": "luh moh",
+    "meaning": "Word",
+    "mainContext": {
+      "fr": "Je ne comprends pas ce mot.",
+      "phonetic": "Zhuh nuh kohn-prahn pah suh moh",
+      "en": "I do not understand this word."
+    },
+    "moreContext": [
+      {
+        "fr": "Un mot magique.",
+        "phonetic": "Uhn moh mah-zheek",
+        "en": "A magic word."
+      },
+      {
+        "fr": "Il n'a pas dit un mot.",
+        "phonetic": "Eel nah pah dee uhn moh",
+        "en": "He didn't say a word."
+      }
+    ]
+  },
+  {
+    "word": "Premier / Première",
+    "pos": "Adjective",
+    "pronunciation": "pruh-myay / pruh-myehr",
+    "meaning": "First",
+    "mainContext": {
+      "fr": "C'est la première fois.",
+      "phonetic": "Seh lah pruh-myehr fwah",
+      "en": "It is the first time."
+    },
+    "moreContext": [
+      {
+        "fr": "Le premier jour.",
+        "phonetic": "Luh pruh-myay zhoor",
+        "en": "The first day."
+      },
+      {
+        "fr": "Il est le premier.",
+        "phonetic": "Eel eh luh pruh-myay",
+        "en": "He is the first."
+      }
+    ]
+  },
+  {
+    "word": "Dernier / Dernière",
+    "pos": "Adjective",
+    "pronunciation": "dehr-nyay / dehr-nyehr",
+    "meaning": "Last",
+    "mainContext": {
+      "fr": "C'est ma dernière offre.",
+      "phonetic": "Seh mah dehr-nyehr ofr",
+      "en": "It is my last offer."
+    },
+    "moreContext": [
+      {
+        "fr": "Le mois dernier.",
+        "phonetic": "Luh mwah dehr-nyay",
+        "en": "Last month."
+      },
+      {
+        "fr": "La dernière page.",
+        "phonetic": "Lah dehr-nyehr pahzh",
+        "en": "The last page."
+      }
+    ]
+  },
+  {
+    "word": "Même",
+    "pos": "Adjective / Adverb",
+    "pronunciation": "mem",
+    "meaning": "Same / Even",
+    "mainContext": {
+      "fr": "Nous avons le même âge.",
+      "phonetic": "Nooz ah-vohn luh mem ahzh",
+      "en": "We are the same age."
+    },
+    "moreContext": [
+      {
+        "fr": "C'est la même chose.",
+        "phonetic": "Seh lah mem shohz",
+        "en": "It is the same thing."
+      },
+      {
+        "fr": "Moi-même.",
+        "phonetic": "Mwah-mem",
+        "en": "Myself."
+      }
+    ]
+  },
+  {
+    "word": "Seul / Seule",
+    "pos": "Adjective",
+    "pronunciation": "suhl",
+    "meaning": "Alone / Only",
+    "mainContext": {
+      "fr": "Je suis tout seul.",
+      "phonetic": "Zhuh swee too suhl",
+      "en": "I am all alone."
+    },
+    "moreContext": [
+      {
+        "fr": "Une seule personne.",
+        "phonetic": "Oon suhl pehr-sun",
+        "en": "Only one person."
+      },
+      {
+        "fr": "Elle habite seule.",
+        "phonetic": "El ah-beet suhl",
+        "en": "She lives alone."
+      }
+    ]
+  },
+  {
+    "word": "Vrai / Vraie",
+    "pos": "Adjective",
+    "pronunciation": "vreh",
+    "meaning": "True / Real",
+    "mainContext": {
+      "fr": "C'est une histoire vraie.",
+      "phonetic": "Seht oon ees-twahr vreh",
+      "en": "It is a true story."
+    },
+    "moreContext": [
+      {
+        "fr": "C'est vrai.",
+        "phonetic": "Seh vreh",
+        "en": "That is true."
+      },
+      {
+        "fr": "Un vrai ami.",
+        "phonetic": "Uhn vreh ah-mee",
+        "en": "A real friend."
+      }
+    ]
+  },
+  {
+    "word": "Ici",
+    "pos": "Adverb",
+    "pronunciation": "ee-see",
+    "meaning": "Here",
+    "mainContext": {
+      "fr": "Viens ici tout de suite.",
+      "phonetic": "Vyahn ee-see too duh sweet",
+      "en": "Come here right now."
+    },
+    "moreContext": [
+      {
+        "fr": "J'habite ici.",
+        "phonetic": "Zhah-beet ee-see",
+        "en": "I live here."
+      },
+      {
+        "fr": "Ici, c'est Paris.",
+        "phonetic": "Ee-see seh Pah-ree",
+        "en": "Here, it's Paris."
+      }
+    ]
+  },
+  {
+    "word": "Là",
+    "pos": "Adverb",
+    "pronunciation": "lah",
+    "meaning": "There",
+    "mainContext": {
+      "fr": "Regarde là-bas.",
+      "phonetic": "Ruh-gahrd lah-bah",
+      "en": "Look over there."
+    },
+    "moreContext": [
+      {
+        "fr": "Je suis là.",
+        "phonetic": "Zhuh swee lah",
+        "en": "I am here/there."
+      },
+      {
+        "fr": "Reste là.",
+        "phonetic": "Rest lah",
+        "en": "Stay there."
+      }
+    ]
+  },
+  {
+    "word": "Avant",
+    "pos": "Preposition / Adverb",
+    "pronunciation": "ah-vahn",
+    "meaning": "Before",
+    "mainContext": {
+      "fr": "Je dois finir avant midi.",
+      "phonetic": "Zhuh dwah fee-neer ah-vahn mee-dee",
+      "en": "I must finish before noon."
+    },
+    "moreContext": [
+      {
+        "fr": "Viens avant moi.",
+        "phonetic": "Vyahn ah-vahn mwah",
+        "en": "Come before me."
+      },
+      {
+        "fr": "C'était mieux avant.",
+        "phonetic": "Say-teh myuh ah-vahn",
+        "en": "It was better before."
+      }
+    ]
+  },
+  {
+    "word": "Après",
+    "pos": "Preposition / Adverb",
+    "pronunciation": "ah-preh",
+    "meaning": "After",
+    "mainContext": {
+      "fr": "On se voit après le travail.",
+      "phonetic": "Ohn suh vwah ah-preh luh trah-vye",
+      "en": "We'll see each other after work."
+    },
+    "moreContext": [
+      {
+        "fr": "Jour après jour.",
+        "phonetic": "Zhoor ah-preh zhoor",
+        "en": "Day after day."
+      },
+      {
+        "fr": "Après vous.",
+        "phonetic": "Ah-preh voo",
+        "en": "After you."
+      }
+    ]
+  },
+  {
+    "word": "Sous",
+    "pos": "Preposition",
+    "pronunciation": "soo",
+    "meaning": "Under",
+    "mainContext": {
+      "fr": "Le chien est sous la table.",
+      "phonetic": "Luh shyahn eh soo lah tahbl",
+      "en": "The dog is under the table."
+    },
+    "moreContext": [
+      {
+        "fr": "Sous la pluie.",
+        "phonetic": "Soo lah plwee",
+        "en": "Under the rain."
+      },
+      {
+        "fr": "C'est sous ton lit.",
+        "phonetic": "Seh soo tohn lee",
+        "en": "It is under your bed."
       }
     ]
   }
