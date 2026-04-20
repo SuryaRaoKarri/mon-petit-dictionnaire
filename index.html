@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Petit Dictionnaire</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Sticky Header with Search & Filter -->
+    <header class="sticky-header">
+        <h1>🇫🇷 French Vocab</h1>
+        <div class="controls">
+            <input type="text" id="search-bar" placeholder="Search words, meanings...">
+            <select id="pos-filter">
+                <option value="all">All Parts of Speech</option>
+                <!-- Options will be added dynamically by JS -->
+            </select>
+        </div>
+        <div id="word-count" class="count-badge">Loading...</div>
+    </header>
+
+    <!-- Main Container for Rows -->
+    <main>
+        <div id="vocab-list" class="vocab-list">
+            <!-- Rows will be injected here by JavaScript -->
+        </div>
+    </main>
+
+    <!-- The Modal (Hidden by default) -->
+    <div id="word-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <div id="modal-body">
+                <!-- Modal content injected here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

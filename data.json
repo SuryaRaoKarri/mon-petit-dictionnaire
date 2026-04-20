@@ -1,0 +1,25 @@
+[
+  {
+    "word": "Rien",
+    "pos": "Pronoun",
+    "pronunciation": "ry-ehn",
+    "meaning": "Nothing / Anything",
+    "mainContext": {
+      "fr": "Je ne regrette rien.",
+      "phonetic": "Zhuh nuh ruh-gret ry-ehn",
+      "en": "I regret nothing."
+    },
+    "moreContext": [
+      {
+        "fr": "Il n'y a rien à faire.",
+        "phonetic": "Eel nee ah ry-ehn ah fair",
+        "en": "There is nothing to do."
+      },
+      {
+        "fr": "Rien n'est impossible.",
+        "phonetic": "Ry-ehn neht ahm-poh-seebl",
+        "en": "Nothing is impossible."
+      }
+    ]
+  }
+]
