@@ -1608,5 +1608,465 @@
         "en": "It is under your bed."
       }
     ]
+  },
+  {
+    "word": "Trouver",
+    "pos": "Verb",
+    "pronunciation": "troo-vay",
+    "meaning": "To find",
+    "mainContext": {
+      "fr": "Je ne peux pas trouver mes clés.",
+      "phonetic": "Zhuh nuh puh pah troo-vay may klay",
+      "en": "I cannot find my keys."
+    },
+    "moreContext": [
+      {
+        "fr": "Il trouve ça drôle.",
+        "phonetic": "Eel troov sah drohl",
+        "en": "He finds that funny."
+      },
+      {
+        "fr": "Tu vas trouver.",
+        "phonetic": "Too vah troo-vay",
+        "en": "You will find it."
+      }
+    ]
+  },
+  {
+    "word": "Parler",
+    "pos": "Verb",
+    "pronunciation": "pahr-lay",
+    "meaning": "To speak / To talk",
+    "mainContext": {
+      "fr": "Je veux te parler.",
+      "phonetic": "Zhuh vuh tuh pahr-lay",
+      "en": "I want to speak to you."
+    },
+    "moreContext": [
+      {
+        "fr": "Il parle beaucoup.",
+        "phonetic": "Eel pahrl boh-koo",
+        "en": "He speaks a lot."
+      },
+      {
+        "fr": "Elle parle anglais.",
+        "phonetic": "El pahrl ahn-gleh",
+        "en": "She speaks English."
+      }
+    ]
+  },
+  {
+    "word": "Aimer",
+    "pos": "Verb",
+    "pronunciation": "eh-may",
+    "meaning": "To like / To love",
+    "mainContext": {
+      "fr": "J'aime la musique.",
+      "phonetic": "Zhem lah moo-zeek",
+      "en": "I like music."
+    },
+    "moreContext": [
+      {
+        "fr": "Je t'aime.",
+        "phonetic": "Zhuh tem",
+        "en": "I love you."
+      },
+      {
+        "fr": "Il aime voyager.",
+        "phonetic": "Eel em vwah-yah-zhay",
+        "en": "He likes to travel."
+      }
+    ]
+  },
+  {
+    "word": "Passer",
+    "pos": "Verb",
+    "pronunciation": "pah-say",
+    "meaning": "To pass / To spend (time)",
+    "mainContext": {
+      "fr": "Je vais passer te voir.",
+      "phonetic": "Zhuh veh pah-say tuh vwahr",
+      "en": "I will come by to see you."
+    },
+    "moreContext": [
+      {
+        "fr": "Passer du temps.",
+        "phonetic": "Pah-say doo tahn",
+        "en": "To spend time."
+      },
+      {
+        "fr": "Le temps passe vite.",
+        "phonetic": "Luh tahn pahs veet",
+        "en": "Time goes by fast."
+      }
+    ]
+  },
+  {
+    "word": "Mettre",
+    "pos": "Verb",
+    "pronunciation": "metr",
+    "meaning": "To put / To place",
+    "mainContext": {
+      "fr": "Je vais mettre la table.",
+      "phonetic": "Zhuh veh metr lah tahbl",
+      "en": "I am going to set the table."
+    },
+    "moreContext": [
+      {
+        "fr": "Mets ton manteau.",
+        "phonetic": "Meh tohn mahn-toh",
+        "en": "Put on your coat."
+      },
+      {
+        "fr": "Où as-tu mis ça ?",
+        "phonetic": "Oo ah-too mee sah",
+        "en": "Where did you put that?"
+      }
+    ]
+  },
+  {
+    "word": "L'heure",
+    "pos": "Noun, feminine",
+    "pronunciation": "luhr",
+    "meaning": "Hour / Time",
+    "mainContext": {
+      "fr": "Quelle heure est-il ?",
+      "phonetic": "Kel luhr eh-teel",
+      "en": "What time is it?"
+    },
+    "moreContext": [
+      {
+        "fr": "Dans une heure.",
+        "phonetic": "Dahnz oon luhr",
+        "en": "In an hour."
+      },
+      {
+        "fr": "C'est l'heure de partir.",
+        "phonetic": "Seh luhr duh pahr-teer",
+        "en": "It's time to leave."
+      }
+    ]
+  },
+  {
+    "word": "Le matin",
+    "pos": "Noun, masculine",
+    "pronunciation": "luh mah-tahn",
+    "meaning": "Morning",
+    "mainContext": {
+      "fr": "Je bois du café le matin.",
+      "phonetic": "Zhuh bwah doo kah-fay luh mah-tahn",
+      "en": "I drink coffee in the morning."
+    },
+    "moreContext": [
+      {
+        "fr": "Ce matin.",
+        "phonetic": "Suh mah-tahn",
+        "en": "This morning."
+      },
+      {
+        "fr": "Demain matin.",
+        "phonetic": "Duh-mahn mah-tahn",
+        "en": "Tomorrow morning."
+      }
+    ]
+  },
+  {
+    "word": "Le soir",
+    "pos": "Noun, masculine",
+    "pronunciation": "luh swahr",
+    "meaning": "Evening",
+    "mainContext": {
+      "fr": "Que fais-tu ce soir ?",
+      "phonetic": "Kuh feh-too suh swahr",
+      "en": "What are you doing this evening?"
+    },
+    "moreContext": [
+      {
+        "fr": "Bonne soirée.",
+        "phonetic": "Bun swah-ray",
+        "en": "Have a good evening."
+      },
+      {
+        "fr": "Tous les soirs.",
+        "phonetic": "Too lay swahr",
+        "en": "Every evening."
+      }
+    ]
+  },
+  {
+    "word": "La nuit",
+    "pos": "Noun, feminine",
+    "pronunciation": "lah nwee",
+    "meaning": "Night",
+    "mainContext": {
+      "fr": "Bonne nuit !",
+      "phonetic": "Bun nwee",
+      "en": "Good night!"
+    },
+    "moreContext": [
+      {
+        "fr": "Il fait noir la nuit.",
+        "phonetic": "Eel feh nwahr lah nwee",
+        "en": "It is dark at night."
+      },
+      {
+        "fr": "La nuit tombe.",
+        "phonetic": "Lah nwee tohmb",
+        "en": "Night is falling."
+      }
+    ]
+  },
+  {
+    "word": "Le nom",
+    "pos": "Noun, masculine",
+    "pronunciation": "luh nohm",
+    "meaning": "Name",
+    "mainContext": {
+      "fr": "Quel est ton nom ?",
+      "phonetic": "Kel eh tohn nohm",
+      "en": "What is your name?"
+    },
+    "moreContext": [
+      {
+        "fr": "Je connais son nom.",
+        "phonetic": "Zhuh kuh-neh sohn nohm",
+        "en": "I know his name."
+      },
+      {
+        "fr": "Écrivez votre nom ici.",
+        "phonetic": "Ay-kree-vay vuhtr nohm ee-see",
+        "en": "Write your name here."
+      }
+    ]
+  },
+  {
+    "word": "La place",
+    "pos": "Noun, feminine",
+    "pronunciation": "lah plahs",
+    "meaning": "Place / Room / Square",
+    "mainContext": {
+      "fr": "Est-ce que cette place est libre ?",
+      "phonetic": "Ess kuh set plahs eh leebr",
+      "en": "Is this seat free?"
+    },
+    "moreContext": [
+      {
+        "fr": "Garde ma place.",
+        "phonetic": "Gahrd mah plahs",
+        "en": "Keep my place."
+      },
+      {
+        "fr": "Il n'y a plus de place.",
+        "phonetic": "Eel nee ah ploo duh plahs",
+        "en": "There is no more room."
+      }
+    ]
+  },
+  {
+    "word": "Autre",
+    "pos": "Adjective",
+    "pronunciation": "ohtr",
+    "meaning": "Other",
+    "mainContext": {
+      "fr": "Je veux un autre verre.",
+      "phonetic": "Zhuh vuhz uhn ohtr vehr",
+      "en": "I want another glass."
+    },
+    "moreContext": [
+      {
+        "fr": "L'autre jour.",
+        "phonetic": "Lohtr zhoor",
+        "en": "The other day."
+      },
+      {
+        "fr": "Nous avons d'autres projets.",
+        "phonetic": "Nooz ah-vohn dohtr pro-zhay",
+        "en": "We have other plans."
+      }
+    ]
+  },
+  {
+    "word": "Chaque",
+    "pos": "Adjective",
+    "pronunciation": "shahk",
+    "meaning": "Each / Every",
+    "mainContext": {
+      "fr": "Je lis chaque jour.",
+      "phonetic": "Zhuh lee shahk zhoor",
+      "en": "I read every day."
+    },
+    "moreContext": [
+      {
+        "fr": "Chaque personne est unique.",
+        "phonetic": "Shahk pehr-sun eht oo-neek",
+        "en": "Each person is unique."
+      },
+      {
+        "fr": "À chaque fois.",
+        "phonetic": "Ah shahk fwah",
+        "en": "Every time."
+      }
+    ]
+  },
+  {
+    "word": "Facile",
+    "pos": "Adjective",
+    "pronunciation": "fah-seel",
+    "meaning": "Easy",
+    "mainContext": {
+      "fr": "C'est très facile à faire.",
+      "phonetic": "Seh treh fah-seel ah fehr",
+      "en": "It is very easy to do."
+    },
+    "moreContext": [
+      {
+        "fr": "Une question facile.",
+        "phonetic": "Oon kes-tyohn fah-seel",
+        "en": "An easy question."
+      },
+      {
+        "fr": "Ce n'est pas si facile.",
+        "phonetic": "Suh neh pah see fah-seel",
+        "en": "It's not that easy."
+      }
+    ]
+  },
+  {
+    "word": "Difficile",
+    "pos": "Adjective",
+    "pronunciation": "dee-fee-seel",
+    "meaning": "Difficult / Hard",
+    "mainContext": {
+      "fr": "C'est une décision difficile.",
+      "phonetic": "Seht oon day-see-zyohn dee-fee-seel",
+      "en": "It is a difficult decision."
+    },
+    "moreContext": [
+      {
+        "fr": "C'est trop difficile.",
+        "phonetic": "Seh troh dee-fee-seel",
+        "en": "It is too hard."
+      },
+      {
+        "fr": "Une période difficile.",
+        "phonetic": "Oon pay-ryohd dee-fee-seel",
+        "en": "A difficult period."
+      }
+    ]
+  },
+  {
+    "word": "Souvent",
+    "pos": "Adverb",
+    "pronunciation": "soo-vahn",
+    "meaning": "Often",
+    "mainContext": {
+      "fr": "Je vais souvent au cinéma.",
+      "phonetic": "Zhuh veh soo-vahn oh see-nay-mah",
+      "en": "I often go to the cinema."
+    },
+    "moreContext": [
+      {
+        "fr": "Très souvent.",
+        "phonetic": "Treh soo-vahn",
+        "en": "Very often."
+      },
+      {
+        "fr": "Il pleut souvent ici.",
+        "phonetic": "Eel pluh soo-vahn ee-see",
+        "en": "It rains often here."
+      }
+    ]
+  },
+  {
+    "word": "Peut-être",
+    "pos": "Adverb",
+    "pronunciation": "puh-tetr",
+    "meaning": "Maybe / Perhaps",
+    "mainContext": {
+      "fr": "Peut-être demain.",
+      "phonetic": "Puh-tetr duh-mahn",
+      "en": "Maybe tomorrow."
+    },
+    "moreContext": [
+      {
+        "fr": "Il va peut-être venir.",
+        "phonetic": "Eel vah puh-tetr vuh-neer",
+        "en": "He will maybe come."
+      },
+      {
+        "fr": "Peut-être que oui.",
+        "phonetic": "Puh-tetr kuh wee",
+        "en": "Maybe so."
+      }
+    ]
+  },
+  {
+    "word": "Sans",
+    "pos": "Preposition",
+    "pronunciation": "sahn",
+    "meaning": "Without",
+    "mainContext": {
+      "fr": "Un café sans sucre, s'il vous plaît.",
+      "phonetic": "Uhn kah-fay sahn sookr seel voo pleh",
+      "en": "A coffee without sugar, please."
+    },
+    "moreContext": [
+      {
+        "fr": "Je ne peux pas vivre sans toi.",
+        "phonetic": "Zhuh nuh puh pah veevr sahn twah",
+        "en": "I can't live without you."
+      },
+      {
+        "fr": "Sans problème.",
+        "phonetic": "Sahn pro-blem",
+        "en": "Without a problem."
+      }
+    ]
+  },
+  {
+    "word": "Chez",
+    "pos": "Preposition",
+    "pronunciation": "shay",
+    "meaning": "At / To someone's home or place",
+    "mainContext": {
+      "fr": "Je rentre chez moi.",
+      "phonetic": "Zhuh rahntr shay mwah",
+      "en": "I am going back to my place."
+    },
+    "moreContext": [
+      {
+        "fr": "Il est chez le médecin.",
+        "phonetic": "Eel eh shay luh mayd-sahn",
+        "en": "He is at the doctor's."
+      },
+      {
+        "fr": "Chez nous.",
+        "phonetic": "Shay noo",
+        "en": "At our house / in our country."
+      }
+    ]
+  },
+  {
+    "word": "Quand",
+    "pos": "Conjunction / Adverb",
+    "pronunciation": "kahn",
+    "meaning": "When",
+    "mainContext": {
+      "fr": "Quand vas-tu partir ?",
+      "phonetic": "Kahn vah-too pahr-teer",
+      "en": "When are you going to leave?"
+    },
+    "moreContext": [
+      {
+        "fr": "Dis-moi quand tu arrives.",
+        "phonetic": "Dee-mwah kahn too ah-reev",
+        "en": "Tell me when you arrive."
+      },
+      {
+        "fr": "Quand j'étais petit.",
+        "phonetic": "Kahn zhay-teh puh-tee",
+        "en": "When I was young."
+      }
+    ]
   }
 ]
