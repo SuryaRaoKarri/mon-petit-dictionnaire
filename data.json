@@ -2068,5 +2068,465 @@
         "en": "When I was young."
       }
     ]
+  },
+  {
+    "word": "Croire",
+    "pos": "Verb",
+    "pronunciation": "krwahr",
+    "meaning": "To believe",
+    "mainContext": {
+      "fr": "Je ne peux pas le croire.",
+      "phonetic": "Zhuh nuh puh pah luh krwahr",
+      "en": "I cannot believe it."
+    },
+    "moreContext": [
+      {
+        "fr": "Je crois que oui.",
+        "phonetic": "Zhuh krwah kuh wee",
+        "en": "I believe so."
+      },
+      {
+        "fr": "Crois-moi !",
+        "phonetic": "Krwah-mwah",
+        "en": "Believe me!"
+      }
+    ]
+  },
+  {
+    "word": "Demander",
+    "pos": "Verb",
+    "pronunciation": "duh-mahn-day",
+    "meaning": "To ask",
+    "mainContext": {
+      "fr": "Je vais lui demander.",
+      "phonetic": "Zhuh veh lwee duh-mahn-day",
+      "en": "I am going to ask him/her."
+    },
+    "moreContext": [
+      {
+        "fr": "Il demande de l'aide.",
+        "phonetic": "Eel duh-mahnd duh lehd",
+        "en": "He is asking for help."
+      },
+      {
+        "fr": "Demande-moi n'importe quoi.",
+        "phonetic": "Duh-mahnd-mwah nahm-port kwah",
+        "en": "Ask me anything."
+      }
+    ]
+  },
+  {
+    "word": "Laisser",
+    "pos": "Verb",
+    "pronunciation": "leh-say",
+    "meaning": "To leave / To let",
+    "mainContext": {
+      "fr": "Laisse-moi tranquille.",
+      "phonetic": "Les-mwah trahn-keel",
+      "en": "Leave me alone."
+    },
+    "moreContext": [
+      {
+        "fr": "J'ai laissé mes clés ici.",
+        "phonetic": "Zhay leh-say may klay ee-see",
+        "en": "I left my keys here."
+      },
+      {
+        "fr": "Laissez-moi réfléchir.",
+        "phonetic": "Leh-say-mwah ray-flay-sheer",
+        "en": "Let me think."
+      }
+    ]
+  },
+  {
+    "word": "Garder",
+    "pos": "Verb",
+    "pronunciation": "gahr-day",
+    "meaning": "To keep",
+    "mainContext": {
+      "fr": "Tu peux garder la monnaie.",
+      "phonetic": "Too puh gahr-day lah muh-neh",
+      "en": "You can keep the change."
+    },
+    "moreContext": [
+      {
+        "fr": "Garde le secret.",
+        "phonetic": "Gahrd luh suh-kreh",
+        "en": "Keep the secret."
+      },
+      {
+        "fr": "Je garde un bon souvenir.",
+        "phonetic": "Zhuh gahrd uhn bohn soov-neer",
+        "en": "I keep a good memory (of it)."
+      }
+    ]
+  },
+  {
+    "word": "Commencer",
+    "pos": "Verb",
+    "pronunciation": "koh-mahn-say",
+    "meaning": "To start / To begin",
+    "mainContext": {
+      "fr": "Le film va commencer.",
+      "phonetic": "Luh feelm vah koh-mahn-say",
+      "en": "The movie is going to start."
+    },
+    "moreContext": [
+      {
+        "fr": "Je commence à comprendre.",
+        "phonetic": "Zhuh koh-mahns ah kohn-prahndr",
+        "en": "I am starting to understand."
+      },
+      {
+        "fr": "Commençons maintenant.",
+        "phonetic": "Koh-mahn-sohn mahn-tuh-nahn",
+        "en": "Let's begin now."
+      }
+    ]
+  },
+  {
+    "word": "La voiture",
+    "pos": "Noun, feminine",
+    "pronunciation": "lah vwah-toor",
+    "meaning": "Car",
+    "mainContext": {
+      "fr": "Je conduis ma voiture.",
+      "phonetic": "Zhuh kohn-dwee mah vwah-toor",
+      "en": "I am driving my car."
+    },
+    "moreContext": [
+      {
+        "fr": "Monte dans la voiture.",
+        "phonetic": "Mohnt dahn lah vwah-toor",
+        "en": "Get in the car."
+      },
+      {
+        "fr": "La voiture est en panne.",
+        "phonetic": "Lah vwah-toor eht ahn pahn",
+        "en": "The car is broken down."
+      }
+    ]
+  },
+  {
+    "word": "L'argent",
+    "pos": "Noun, masculine",
+    "pronunciation": "lahr-zhahn",
+    "meaning": "Money / Silver",
+    "mainContext": {
+      "fr": "Je n'ai pas d'argent.",
+      "phonetic": "Zhuh nay pah dahr-zhahn",
+      "en": "I don't have any money."
+    },
+    "moreContext": [
+      {
+        "fr": "L'argent ne fait pas le bonheur.",
+        "phonetic": "Lahr-zhahn nuh feh pah luh bun-uhr",
+        "en": "Money doesn't buy happiness."
+      },
+      {
+        "fr": "Il gagne beaucoup d'argent.",
+        "phonetic": "Eel gahn boh-koo dahr-zhahn",
+        "en": "He earns a lot of money."
+      }
+    ]
+  },
+  {
+    "word": "L'histoire",
+    "pos": "Noun, feminine",
+    "pronunciation": "lees-twahr",
+    "meaning": "Story / History",
+    "mainContext": {
+      "fr": "Raconte-moi une histoire.",
+      "phonetic": "Rah-kohnt-mwah oon ees-twahr",
+      "en": "Tell me a story."
+    },
+    "moreContext": [
+      {
+        "fr": "C'est de l'histoire ancienne.",
+        "phonetic": "Seh duh lees-twahr ahn-syen",
+        "en": "That's ancient history."
+      },
+      {
+        "fr": "J'aime l'histoire.",
+        "phonetic": "Zhem lees-twahr",
+        "en": "I like history."
+      }
+    ]
+  },
+  {
+    "word": "La raison",
+    "pos": "Noun, feminine",
+    "pronunciation": "lah reh-zohn",
+    "meaning": "Reason / Right (to be right)",
+    "mainContext": {
+      "fr": "Tu as raison.",
+      "phonetic": "Too ah reh-zohn",
+      "en": "You are right."
+    },
+    "moreContext": [
+      {
+        "fr": "C'est la bonne raison.",
+        "phonetic": "Seh lah bun reh-zohn",
+        "en": "It is the right reason."
+      },
+      {
+        "fr": "Pour quelle raison ?",
+        "phonetic": "Poor kel reh-zohn",
+        "en": "For what reason?"
+      }
+    ]
+  },
+  {
+    "word": "La porte",
+    "pos": "Noun, feminine",
+    "pronunciation": "lah port",
+    "meaning": "Door",
+    "mainContext": {
+      "fr": "Ferme la porte, s'il te plaît.",
+      "phonetic": "Fehrm lah port, seel tuh pleh",
+      "en": "Close the door, please."
+    },
+    "moreContext": [
+      {
+        "fr": "Ouvre la porte.",
+        "phonetic": "Oovr lah port",
+        "en": "Open the door."
+      },
+      {
+        "fr": "Quelqu'un frappe à la porte.",
+        "phonetic": "Kel-kuhn frahp ah lah port",
+        "en": "Someone is knocking at the door."
+      }
+    ]
+  },
+  {
+    "word": "Important / Importante",
+    "pos": "Adjective",
+    "pronunciation": "ahm-por-tahn / ahm-por-tahnt",
+    "meaning": "Important",
+    "mainContext": {
+      "fr": "C'est très important.",
+      "phonetic": "Seh trehz ahm-por-tahn",
+      "en": "It is very important."
+    },
+    "moreContext": [
+      {
+        "fr": "Une décision importante.",
+        "phonetic": "Oon day-see-zyohn ahm-por-tahnt",
+        "en": "An important decision."
+      },
+      {
+        "fr": "Le plus important est de participer.",
+        "phonetic": "Luh plooz ahm-por-tahn eh duh pahr-tee-see-pay",
+        "en": "The most important thing is to participate."
+      }
+    ]
+  },
+  {
+    "word": "Meilleur / Meilleure",
+    "pos": "Adjective",
+    "pronunciation": "may-yuhr",
+    "meaning": "Best / Better",
+    "mainContext": {
+      "fr": "C'est mon meilleur ami.",
+      "phonetic": "Seh mohn may-yuhr ah-mee",
+      "en": "He is my best friend."
+    },
+    "moreContext": [
+      {
+        "fr": "C'est la meilleure idée.",
+        "phonetic": "Seh lah may-yuhr ee-day",
+        "en": "It's the best idea."
+      },
+      {
+        "fr": "J'espère des jours meilleurs.",
+        "phonetic": "Zhes-pehr day zhoor may-yuhr",
+        "en": "I hope for better days."
+      }
+    ]
+  },
+  {
+    "word": "Grave",
+    "pos": "Adjective",
+    "pronunciation": "grahv",
+    "meaning": "Serious",
+    "mainContext": {
+      "fr": "Ce n'est pas grave.",
+      "phonetic": "Suh neh pah grahv",
+      "en": "It's not a big deal / It's not serious."
+    },
+    "moreContext": [
+      {
+        "fr": "C'est un problème grave.",
+        "phonetic": "Seht uhn pro-blem grahv",
+        "en": "It's a serious problem."
+      },
+      {
+        "fr": "Est-ce que c'est grave ?",
+        "phonetic": "Ess kuh seh grahv",
+        "en": "Is it serious?"
+      }
+    ]
+  },
+  {
+    "word": "Fort / Forte",
+    "pos": "Adjective",
+    "pronunciation": "for / fort",
+    "meaning": "Strong",
+    "mainContext": {
+      "fr": "Il est très fort.",
+      "phonetic": "Eel eh treh for",
+      "en": "He is very strong."
+    },
+    "moreContext": [
+      {
+        "fr": "Une femme forte.",
+        "phonetic": "Oon fahm fort",
+        "en": "A strong woman."
+      },
+      {
+        "fr": "Le vent est fort.",
+        "phonetic": "Luh vahn eh for",
+        "en": "The wind is strong."
+      }
+    ]
+  },
+  {
+    "word": "Cher / Chère",
+    "pos": "Adjective",
+    "pronunciation": "shehr",
+    "meaning": "Expensive / Dear",
+    "mainContext": {
+      "fr": "Cette voiture est trop chère.",
+      "phonetic": "Set vwah-toor eh troh shehr",
+      "en": "This car is too expensive."
+    },
+    "moreContext": [
+      {
+        "fr": "Mon cher ami.",
+        "phonetic": "Mohn shehr ah-mee",
+        "en": "My dear friend."
+      },
+      {
+        "fr": "Ça coûte très cher.",
+        "phonetic": "Sah koot treh shehr",
+        "en": "It costs a lot."
+      }
+    ]
+  },
+  {
+    "word": "Si",
+    "pos": "Conjunction / Adverb",
+    "pronunciation": "see",
+    "meaning": "If / So",
+    "mainContext": {
+      "fr": "Si tu veux.",
+      "phonetic": "See too vuh",
+      "en": "If you want."
+    },
+    "moreContext": [
+      {
+        "fr": "Je suis si fatigué.",
+        "phonetic": "Zhuh swee see fah-tee-gay",
+        "en": "I am so tired."
+      },
+      {
+        "fr": "Dis-moi si tu viens.",
+        "phonetic": "Dee-mwah see too vyahn",
+        "en": "Tell me if you are coming."
+      }
+    ]
+  },
+  {
+    "word": "Où",
+    "pos": "Adverb / Pronoun",
+    "pronunciation": "oo",
+    "meaning": "Where",
+    "mainContext": {
+      "fr": "Où vas-tu ?",
+      "phonetic": "Oo vah-too",
+      "en": "Where are you going?"
+    },
+    "moreContext": [
+      {
+        "fr": "Où est la gare ?",
+        "phonetic": "Oo eh lah gahr",
+        "en": "Where is the train station?"
+      },
+      {
+        "fr": "Le pays où je suis né.",
+        "phonetic": "Luh pay-ee oo zhuh swee nay",
+        "en": "The country where I was born."
+      }
+    ]
+  },
+  {
+    "word": "Pourquoi",
+    "pos": "Adverb / Conjunction",
+    "pronunciation": "poor-kwah",
+    "meaning": "Why",
+    "mainContext": {
+      "fr": "Pourquoi tu pleures ?",
+      "phonetic": "Poor-kwah too pluhr",
+      "en": "Why are you crying?"
+    },
+    "moreContext": [
+      {
+        "fr": "Je ne sais pas pourquoi.",
+        "phonetic": "Zhuh nuh seh pah poor-kwah",
+        "en": "I don't know why."
+      },
+      {
+        "fr": "C'est pourquoi je suis ici.",
+        "phonetic": "Seh poor-kwah zhuh swee ee-see",
+        "en": "That is why I am here."
+      }
+    ]
+  },
+  {
+    "word": "Comment",
+    "pos": "Adverb",
+    "pronunciation": "kuh-mahn",
+    "meaning": "How",
+    "mainContext": {
+      "fr": "Comment vas-tu ?",
+      "phonetic": "Kuh-mahn vah-too",
+      "en": "How are you?"
+    },
+    "moreContext": [
+      {
+        "fr": "Comment ça s'appelle ?",
+        "phonetic": "Kuh-mahn sah sah-pel",
+        "en": "What is it called? (How does it call itself?)"
+      },
+      {
+        "fr": "Je ne sais pas comment faire.",
+        "phonetic": "Zhuh nuh seh pah kuh-mahn fehr",
+        "en": "I don't know how to do it."
+      }
+    ]
+  },
+  {
+    "word": "Déjà",
+    "pos": "Adverb",
+    "pronunciation": "day-zhah",
+    "meaning": "Already / Ever",
+    "mainContext": {
+      "fr": "J'ai déjà mangé.",
+      "phonetic": "Zhay day-zhah mahn-zhay",
+      "en": "I have already eaten."
+    },
+    "moreContext": [
+      {
+        "fr": "Tu pars déjà ?",
+        "phonetic": "Too pahr day-zhah",
+        "en": "Are you leaving already?"
+      },
+      {
+        "fr": "As-tu déjà vu ça ?",
+        "phonetic": "Ah-too day-zhah voo sah",
+        "en": "Have you ever seen that?"
+      }
+    ]
   }
 ]
