@@ -2528,5 +2528,465 @@
         "en": "Have you ever seen that?"
       }
     ]
+  },
+  {
+    "word": "Appeler",
+    "pos": "Verb",
+    "pronunciation": "ah-play",
+    "meaning": "To call",
+    "mainContext": {
+      "fr": "Je dois appeler un taxi.",
+      "phonetic": "Zhuh dwah ah-play uhn tak-see",
+      "en": "I have to call a taxi."
+    },
+    "moreContext": [
+      {
+        "fr": "Comment tu t'appelles ?",
+        "phonetic": "Koh-mahn too tah-pel",
+        "en": "What is your name? (How do you call yourself?)"
+      },
+      {
+        "fr": "Appelle-moi ce soir.",
+        "phonetic": "Ah-pel-mwah suh swahr",
+        "en": "Call me tonight."
+      }
+    ]
+  },
+  {
+    "word": "Attendre",
+    "pos": "Verb",
+    "pronunciation": "ah-tahndr",
+    "meaning": "To wait",
+    "mainContext": {
+      "fr": "Attends-moi ici.",
+      "phonetic": "Ah-tahn-mwah ee-see",
+      "en": "Wait for me here."
+    },
+    "moreContext": [
+      {
+        "fr": "J'attends le bus depuis une heure.",
+        "phonetic": "Zhah-tahn luh boos duh-pwee oon luhr",
+        "en": "I have been waiting for the bus for an hour."
+      },
+      {
+        "fr": "Il ne peut pas attendre.",
+        "phonetic": "Eel nuh puh pah zah-tahndr",
+        "en": "He cannot wait."
+      }
+    ]
+  },
+  {
+    "word": "Perdre",
+    "pos": "Verb",
+    "pronunciation": "pehrdr",
+    "meaning": "To lose",
+    "mainContext": {
+      "fr": "Je ne veux pas perdre mon temps.",
+      "phonetic": "Zhuh nuh vuh pah pehrdr mohn tahn",
+      "en": "I don't want to waste (lose) my time."
+    },
+    "moreContext": [
+      {
+        "fr": "J'ai perdu mes clés.",
+        "phonetic": "Zhay pehr-doo may klay",
+        "en": "I lost my keys."
+      },
+      {
+        "fr": "Il déteste perdre.",
+        "phonetic": "Eel day-test pehrdr",
+        "en": "He hates to lose."
+      }
+    ]
+  },
+  {
+    "word": "Rendre",
+    "pos": "Verb",
+    "pronunciation": "rahndr",
+    "meaning": "To give back / To make (someone something)",
+    "mainContext": {
+      "fr": "Tu dois me rendre ce livre.",
+      "phonetic": "Too dwah muh rahndr suh leevr",
+      "en": "You have to give me back this book."
+    },
+    "moreContext": [
+      {
+        "fr": "Cette chanson me rend triste.",
+        "phonetic": "Set shahn-sohn muh rahn treest",
+        "en": "This song makes me sad."
+      },
+      {
+        "fr": "Rends-moi un service, s'il te plaît.",
+        "phonetic": "Rahn-mwah uhn sehr-vees seel tuh pleh",
+        "en": "Do me a favor, please."
+      }
+    ]
+  },
+  {
+    "word": "Entendre",
+    "pos": "Verb",
+    "pronunciation": "ahn-tahndr",
+    "meaning": "To hear",
+    "mainContext": {
+      "fr": "Peux-tu m'entendre ?",
+      "phonetic": "Puh-too mahn-tahndr",
+      "en": "Can you hear me?"
+    },
+    "moreContext": [
+      {
+        "fr": "J'entends un bruit dehors.",
+        "phonetic": "Zahn-tahn uhn bwee duh-or",
+        "en": "I hear a noise outside."
+      },
+      {
+        "fr": "Je n'ai rien entendu.",
+        "phonetic": "Zhuh nay ry-ehn ahn-tahn-doo",
+        "en": "I didn't hear anything."
+      }
+    ]
+  },
+  {
+    "word": "La rue",
+    "pos": "Noun, feminine",
+    "pronunciation": "lah ree",
+    "meaning": "Street",
+    "mainContext": {
+      "fr": "Je marche dans la rue.",
+      "phonetic": "Zhuh mahrsh dahn lah ree",
+      "en": "I am walking in the street."
+    },
+    "moreContext": [
+      {
+        "fr": "Quelle est ta rue ?",
+        "phonetic": "Kel eh tah ree",
+        "en": "What is your street?"
+      },
+      {
+        "fr": "La rue est très calme.",
+        "phonetic": "Lah ree eh treh kahlm",
+        "en": "The street is very quiet."
+      }
+    ]
+  },
+  {
+    "word": "Le corps",
+    "pos": "Noun, masculine",
+    "pronunciation": "luh kor",
+    "meaning": "Body",
+    "mainContext": {
+      "fr": "Il faut prendre soin de son corps.",
+      "phonetic": "Eel foh prahndr swahn duh sohn kor",
+      "en": "You must take care of your body."
+    },
+    "moreContext": [
+      {
+        "fr": "Un corps sain dans un esprit sain.",
+        "phonetic": "Uhn kor sahn dahnz uhn es-pree sahn",
+        "en": "A healthy body in a healthy mind."
+      },
+      {
+        "fr": "Il a mal au corps.",
+        "phonetic": "Eel ah mahl oh kor",
+        "en": "His body hurts."
+      }
+    ]
+  },
+  {
+    "word": "La tête",
+    "pos": "Noun, feminine",
+    "pronunciation": "lah tet",
+    "meaning": "Head",
+    "mainContext": {
+      "fr": "J'ai mal à la tête.",
+      "phonetic": "Zhay mahl ah lah tet",
+      "en": "I have a headache."
+    },
+    "moreContext": [
+      {
+        "fr": "Elle a la tête dans les nuages.",
+        "phonetic": "El ah lah tet dahn lay nwahzh",
+        "en": "She has her head in the clouds."
+      },
+      {
+        "fr": "Garde la tête haute.",
+        "phonetic": "Gahrd lah tet oht",
+        "en": "Keep your head up."
+      }
+    ]
+  },
+  {
+    "word": "L'idée",
+    "pos": "Noun, feminine",
+    "pronunciation": "lee-day",
+    "meaning": "Idea",
+    "mainContext": {
+      "fr": "C'est une excellente idée.",
+      "phonetic": "Seht oon ek-seh-lahnt ee-day",
+      "en": "That is an excellent idea."
+    },
+    "moreContext": [
+      {
+        "fr": "Je n'en ai aucune idée.",
+        "phonetic": "Zhuh nahn ay oh-koon ee-day",
+        "en": "I have no idea about it."
+      },
+      {
+        "fr": "J'ai une idée derrière la tête.",
+        "phonetic": "Zhay oon ee-day deh-ryehr lah tet",
+        "en": "I have an idea in the back of my mind."
+      }
+    ]
+  },
+  {
+    "word": "Le moment",
+    "pos": "Noun, masculine",
+    "pronunciation": "luh moh-mahn",
+    "meaning": "Moment",
+    "mainContext": {
+      "fr": "Attends un moment, s'il te plaît.",
+      "phonetic": "Ah-tahn uhn moh-mahn seel tuh pleh",
+      "en": "Wait a moment, please."
+    },
+    "moreContext": [
+      {
+        "fr": "C'est le bon moment.",
+        "phonetic": "Seh luh bohn moh-mahn",
+        "en": "It is the right moment."
+      },
+      {
+        "fr": "En ce moment, je suis occupé.",
+        "phonetic": "Ahn suh moh-mahn zhuh swee zoh-koo-pay",
+        "en": "At the moment, I am busy."
+      }
+    ]
+  },
+  {
+    "word": "Chaud",
+    "pos": "Adjective",
+    "pronunciation": "shoh",
+    "meaning": "Hot / Warm",
+    "mainContext": {
+      "fr": "Ce café est très chaud.",
+      "phonetic": "Suh kah-fay eh treh shoh",
+      "en": "This coffee is very hot."
+    },
+    "moreContext": [
+      {
+        "fr": "J'ai chaud aujourd'hui.",
+        "phonetic": "Zhay shoh oh-zhoor-dwee",
+        "en": "I am hot today."
+      },
+      {
+        "fr": "Il fait chaud dehors.",
+        "phonetic": "Eel feh shoh duh-or",
+        "en": "It is hot outside."
+      }
+    ]
+  },
+  {
+    "word": "Froid",
+    "pos": "Adjective",
+    "pronunciation": "frwah",
+    "meaning": "Cold",
+    "mainContext": {
+      "fr": "L'eau est trop froide.",
+      "phonetic": "Loh eh troh frwahd",
+      "en": "The water is too cold."
+    },
+    "moreContext": [
+      {
+        "fr": "As-tu froid ?",
+        "phonetic": "Ah-too frwah",
+        "en": "Are you cold?"
+      },
+      {
+        "fr": "Il fait un froid de canard.",
+        "phonetic": "Eel feht uhn frwah duh kah-nahr",
+        "en": "It is freezing cold (idiom)."
+      }
+    ]
+  },
+  {
+    "word": "Plein / Pleine",
+    "pos": "Adjective",
+    "pronunciation": "plahn / plen",
+    "meaning": "Full",
+    "mainContext": {
+      "fr": "Le verre est plein.",
+      "phonetic": "Luh vehr eh plahn",
+      "en": "The glass is full."
+    },
+    "moreContext": [
+      {
+        "fr": "C'est plein de gens.",
+        "phonetic": "Seh plahn duh zhahn",
+        "en": "It is full of people."
+      },
+      {
+        "fr": "Une assiette pleine.",
+        "phonetic": "Oon ah-syet plen",
+        "en": "A full plate."
+      }
+    ]
+  },
+  {
+    "word": "Vide",
+    "pos": "Adjective",
+    "pronunciation": "veed",
+    "meaning": "Empty",
+    "mainContext": {
+      "fr": "Cette bouteille est vide.",
+      "phonetic": "Set boo-tay eh veed",
+      "en": "This bottle is empty."
+    },
+    "moreContext": [
+      {
+        "fr": "La maison est vide.",
+        "phonetic": "Lah meh-zohn eh veed",
+        "en": "The house is empty."
+      },
+      {
+        "fr": "J'ai les mains vides.",
+        "phonetic": "Zhay lay mahn veed",
+        "en": "My hands are empty."
+      }
+    ]
+  },
+  {
+    "word": "Propre",
+    "pos": "Adjective",
+    "pronunciation": "prohpr",
+    "meaning": "Clean / Own",
+    "mainContext": {
+      "fr": "Ma chambre est propre.",
+      "phonetic": "Mah shahmbr eh prohpr",
+      "en": "My bedroom is clean."
+    },
+    "moreContext": [
+      {
+        "fr": "C'est ma propre voiture.",
+        "phonetic": "Seh mah prohpr vwah-toor",
+        "en": "It is my own car."
+      },
+      {
+        "fr": "Garde tes mains propres.",
+        "phonetic": "Gahrd tay mahn prohpr",
+        "en": "Keep your hands clean."
+      }
+    ]
+  },
+  {
+    "word": "Mieux",
+    "pos": "Adverb / Adjective",
+    "pronunciation": "myuh",
+    "meaning": "Better",
+    "mainContext": {
+      "fr": "Je me sens mieux aujourd'hui.",
+      "phonetic": "Zhuh muh sahn myuh oh-zhoor-dwee",
+      "en": "I feel better today."
+    },
+    "moreContext": [
+      {
+        "fr": "C'est beaucoup mieux.",
+        "phonetic": "Seh boh-koo myuh",
+        "en": "That is much better."
+      },
+      {
+        "fr": "Faire de son mieux.",
+        "phonetic": "Fehr duh sohn myuh",
+        "en": "To do one's best."
+      }
+    ]
+  },
+  {
+    "word": "Moins",
+    "pos": "Adverb",
+    "pronunciation": "mwahn",
+    "meaning": "Less",
+    "mainContext": {
+      "fr": "Cela coûte moins cher.",
+      "phonetic": "Suh-lah koot mwahn shehr",
+      "en": "This costs less."
+    },
+    "moreContext": [
+      {
+        "fr": "Un peu moins de bruit, s'il vous plaît.",
+        "phonetic": "Uhn puh mwahn duh bwee seel voo pleh",
+        "en": "A little less noise, please."
+      },
+      {
+        "fr": "Moins de travail, plus de vacances.",
+        "phonetic": "Mwahn duh trah-vye ploo duh vah-kahns",
+        "en": "Less work, more vacation."
+      }
+    ]
+  },
+  {
+    "word": "Plus",
+    "pos": "Adverb",
+    "pronunciation": "ploo",
+    "meaning": "More",
+    "mainContext": {
+      "fr": "Je veux plus d'informations.",
+      "phonetic": "Zhuh vuh plooz dan-for-mah-syohn",
+      "en": "I want more information."
+    },
+    "moreContext": [
+      {
+        "fr": "Il parle plus fort que toi.",
+        "phonetic": "Eel pahrl ploo for kuh twah",
+        "en": "He speaks louder than you."
+      },
+      {
+        "fr": "Je n'en peux plus.",
+        "phonetic": "Zhuh nahn puh ploo",
+        "en": "I can't take it anymore."
+      }
+    ]
+  },
+  {
+    "word": "Trop",
+    "pos": "Adverb",
+    "pronunciation": "troh",
+    "meaning": "Too / Too much",
+    "mainContext": {
+      "fr": "C'est trop cher pour moi.",
+      "phonetic": "Seh troh shehr poor mwah",
+      "en": "It is too expensive for me."
+    },
+    "moreContext": [
+      {
+        "fr": "Tu parles trop.",
+        "phonetic": "Too pahrl troh",
+        "en": "You talk too much."
+      },
+      {
+        "fr": "C'est trop beau !",
+        "phonetic": "Seh troh beau",
+        "en": "It is too beautiful!"
+      }
+    ]
+  },
+  {
+    "word": "Presque",
+    "pos": "Adverb",
+    "pronunciation": "presk",
+    "meaning": "Almost",
+    "mainContext": {
+      "fr": "C'est presque fini.",
+      "phonetic": "Seh presk fee-nee",
+      "en": "It is almost finished."
+    },
+    "moreContext": [
+      {
+        "fr": "Il est presque midi.",
+        "phonetic": "Eel eh presk mee-dee",
+        "en": "It is almost noon."
+      },
+      {
+        "fr": "J'ai presque oublié.",
+        "phonetic": "Zhay presk oo-blee-ay",
+        "en": "I almost forgot."
+      }
+    ]
   }
 ]
